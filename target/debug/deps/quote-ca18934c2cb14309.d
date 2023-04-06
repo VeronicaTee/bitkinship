@@ -1,0 +1,13 @@
+/Users/apple/rust-projs/project1/target/debug/deps/quote-ca18934c2cb14309.rmeta: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/Users/apple/rust-projs/project1/target/debug/deps/libquote-ca18934c2cb14309.rlib: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/Users/apple/rust-projs/project1/target/debug/deps/quote-ca18934c2cb14309.d: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs:

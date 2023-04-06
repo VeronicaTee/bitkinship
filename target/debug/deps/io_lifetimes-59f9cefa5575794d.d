@@ -1,0 +1,12 @@
+/Users/apple/rust-projs/project1/target/debug/deps/io_lifetimes-59f9cefa5575794d.rmeta: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/portability.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/traits.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/example_ffi.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/raw.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/views.rs
+
+/Users/apple/rust-projs/project1/target/debug/deps/libio_lifetimes-59f9cefa5575794d.rlib: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/portability.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/traits.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/example_ffi.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/raw.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/views.rs
+
+/Users/apple/rust-projs/project1/target/debug/deps/io_lifetimes-59f9cefa5575794d.d: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/portability.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/traits.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/example_ffi.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/raw.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/views.rs
+
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/lib.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/portability.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/traits.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/example_ffi.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/raw.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.9/src/views.rs:
