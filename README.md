@@ -20,6 +20,7 @@ This project provides functionality for calculating the relatedness between Bitc
 
 2. Clone the repository:
 
+```bash
 git clone https://github.com/VeronicaTee/bitkinship.git
 cd bitkinship
 
